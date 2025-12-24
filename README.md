@@ -43,11 +43,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="kali linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354262/splunk.svg" height="40" alt="splunk logo" />
 </div>
 
 ###
