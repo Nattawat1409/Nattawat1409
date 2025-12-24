@@ -73,6 +73,9 @@
   <a href="https://www.linkedin.com/in/nattawat-ruensumrit-8010a32a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://www.instagram.com/beingyourself_1409/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=ff006e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
 </div>
 
 ###
