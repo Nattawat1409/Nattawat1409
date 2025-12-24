@@ -54,7 +54,6 @@
 
 ---
 
-###
 ## Cyber security skills
 
 <div align="center">
@@ -79,7 +78,6 @@
 
 ---
 
-###
 ## Contact
 
 <div align="center">
@@ -94,7 +92,7 @@
   </a>
 </div>
 
-###
+---
 
 ## About me
 
