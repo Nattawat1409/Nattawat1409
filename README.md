@@ -1,5 +1,7 @@
 ## Hi👋! My name is Nattawat Ruensumrit, and I'm a Cyber Security Engineer and Software Engineer, from Thailand
 
+---
+
 ## Web Development skills
 
 <div align="center">
@@ -50,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
+---
+
 ###
 ## Cyber security skills
 
@@ -72,6 +76,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" height="40" alt="Nessus logo" />
 </div>
+
+---
 
 ###
 ## Contact
