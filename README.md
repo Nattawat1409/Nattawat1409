@@ -1,4 +1,4 @@
-## Hi👋! My name is Nattawat Ruensumrit , and I'm a Cyber Security Engineer and Software Engineer, from Thailand ##
+## Hi👋! My name is Nattawat Ruensumrit, and I'm a Cyber Security Engineer and Software Engineer, from Thailand
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
@@ -44,6 +44,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="kali linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
 </div>
 
 ###
