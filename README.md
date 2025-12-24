@@ -61,7 +61,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" height="40" alt="Nessus Professional logo" />
+  <img src="https://www.svgrepo.com/show/354262/splunk.svg" height="40" alt="splunk logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/305944/burp-suite.svg" height="40" alt="burp suite logo" />
+  <img width="12" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="nmap logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354027/metasploit.svg" height="40" alt="metasploit logo" />
 </div>
 
 ###
