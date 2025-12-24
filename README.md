@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354262/splunk.svg" height="40" alt="splunk logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" height="40" alt="Nessus Professional logo" />
 </div>
 
 ###
