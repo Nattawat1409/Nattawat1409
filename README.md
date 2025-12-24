@@ -1,4 +1,4 @@
-# Hi 👋! My name is Nattawat Ruensumrit, and I'm a Cyber Security Engineer and Software Engineer, from Thailand
+# Greeting Everyone 👋! My name is Nattawat Ruensumrit or you can call me "Tai" , and I'm a Cyber Security Engineer and Software Engineer, from Thailand
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
