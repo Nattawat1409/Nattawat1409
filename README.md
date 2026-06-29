@@ -43,7 +43,7 @@
 ## 🤖 AI Engineering
 
 <div align="center">
-  <img src="Langchain--Streamline-Simple-Icons.svg" height="40" alt="langchain" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph" />
   <img width="12" />
