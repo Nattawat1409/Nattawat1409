@@ -43,6 +43,10 @@
 ## 🤖 AI Engineering
 
 <div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="langchain" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="40" alt="langgraph" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph" />
