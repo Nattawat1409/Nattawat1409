@@ -43,8 +43,6 @@
 ## 🤖 AI Engineering
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nattawat1409/<repo-name>/main/assets/langchain-logo.png" height="40" alt="langchain" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="langchain" />
   <img width="12" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="40" alt="langgraph" />
