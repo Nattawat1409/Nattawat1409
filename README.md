@@ -43,6 +43,10 @@
 ## 🤖 AI Engineering
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
