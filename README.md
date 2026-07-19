@@ -1,4 +1,4 @@
-## Hi 👋! I'm Nattawat Ruensumrit — Software Engineer & AI Engineer from Thailand 🇹🇭
+## Hi 👋! I'm Nattawat Ruensumrit — Data AI Engineer from Thailand 🇹🇭
 
 ## 🛠️ Software Engineering
 
